@@ -1,0 +1,32 @@
+# 🔁 Naukri Profile Auto-Refresh Script
+
+Keep your Naukri.com profile at the top of recruiter searches by **automatically refreshing it every 2 hours**.
+
+---
+
+## 🚀 What It Does
+
+- Logs into your Naukri account
+- Navigates to your profile
+- Simulates an update by saving the Resume Headline section
+- (Optional) Shows a Windows popup notification
+- Runs every 2 hours using Task Scheduler
+
+---
+
+## 🧰 Tech Used
+
+- Python
+- Selenium
+- dotenv
+- Windows Task Scheduler
+- (Optional) PowerShell for popup notifications
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/YOUR_USERNAME/naukri-profile-auto-refresh.git
+cd naukri-profile-auto-refresh
