@@ -30,3 +30,14 @@ Keep your Naukri.com profile at the top of recruiter searches by **automatically
 ```bash
 git clone https://github.com/YOUR_USERNAME/naukri-profile-auto-refresh.git
 cd naukri-profile-auto-refresh
+
+pip install -r requirements.txt
+
+###Create a file named .env and add:
+EMAIL=your_email@example.com
+PASSWORD=your_password
+CHROME_DRIVER_PATH=C:/WebDrivers/chromedriver.exe
+
+## 🚀 Run the script
+
+
