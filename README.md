@@ -8,7 +8,7 @@ Keep your Naukri.com profile at the top of recruiter searches by **automatically
 
 - Logs into your Naukri account
 - Navigates to your profile
-- Simulates an update by saving the Resume Headline section
+- Simulates an update by saving the updated resume
 - (Optional) Shows a Windows popup notification
 - Runs every 1 hours using Task Scheduler
 
